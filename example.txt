@@ -4,7 +4,11 @@ example text
 
 example1
 example2
+beans
+pizza
 
 thank you
+
+done my changes
 
 final copy
